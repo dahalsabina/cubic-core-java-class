@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Average {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+
+        System.out.print("Enter the first number: ");
+        double num1 = input.nextDouble();
+
+        System.out.print("Enter the second number: ");
+        double num2 = input.nextDouble();
+
+
+        double sum = num1 + num2;
+        double average = sum / 2;
+
+
+        System.out.println("Sum: " + sum);
+        System.out.println("Average: " + average);
+
+        input.close();
+    }
+}
+

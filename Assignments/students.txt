@@ -1,0 +1,10 @@
+a:china
+b:india
+c:nepal
+d:USA
+e:Nigeria
+f:India
+g:Nepal
+h:Congo
+i:UK
+j:UK
